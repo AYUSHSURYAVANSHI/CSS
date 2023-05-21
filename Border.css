@@ -1,0 +1,19 @@
+#border{
+    /*border-style: double; */
+    border-style: solid  deshed;
+    border-color: aliceblue;
+    border-width: 5px; 
+    border: 7px  solid red;
+
+    border-top-style: solod;
+    border-top-width: 7px;
+    border-top-color: black;
+
+    border-radius: 10px;
+    border-top-left-radius: 50px 40px 30px 20px;
+    
+
+
+
+    
+}
