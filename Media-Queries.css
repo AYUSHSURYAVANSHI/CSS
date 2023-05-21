@@ -1,0 +1,39 @@
+
+#div1{
+    background-color: red;
+    width: 70%;
+    float: left;
+}
+
+
+#div2{
+    background-color: green;
+    width: 30%;
+    float: left;
+}
+
+h1{
+    font-size: 40px;
+
+
+}
+
+@media screen and (max-width: 700px){
+    #div1{
+        width: 50%;
+
+    }
+    #div2{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 400px){
+    #div1{
+        width: 50%;
+
+    }
+    #div2{
+        width: 50%;
+    }
+}
