@@ -1,0 +1,36 @@
+#div1{
+    border: 2px solid red important ;
+    height: 500vh;
+    cursor: pointer;
+    background-color: aqua;
+    padding: 20px;
+    box-shadow: 10px 10px 15px 3px grey inset , -10px -10px 15px 3px grey inset ;
+    filter: drop-shadow(8px 8px 5px red);
+    resize: horizontal;
+    
+    
+
+
+
+}
+
+textarea{
+    resize: none;
+
+}
+
+#child{
+    border: 2px solid blue;
+    width: 50%;
+
+}
+
+ul{
+     list-style-type: circle;
+     list-style-position: outside;
+}
+
+ol{
+    list-style-type: decimal-leading-zero;
+}
+
