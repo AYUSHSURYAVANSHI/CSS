@@ -1,0 +1,16 @@
+ul{
+    background-color: rgb(65, 63, 63);
+    list-style-type: none;
+    border:  2px solid black ;
+    overflow: auto;
+
+
+}
+li{
+    color: white;
+    padding: 10px 15px;
+    float: left;
+    
+
+    
+}
