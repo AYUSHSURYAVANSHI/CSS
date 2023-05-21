@@ -1,0 +1,9 @@
+@media screen and (max-width: 768px){
+    #div1{
+        width: 50%;
+
+    }
+    #div2{
+        width: 50%;
+    }
+}
