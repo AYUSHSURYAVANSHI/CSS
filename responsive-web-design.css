@@ -1,0 +1,28 @@
+@keyframes changecolor {
+    0% { background-color: red;}
+    25% { background-color: red;}
+    50% { background-color: red;}
+    75% { background-color: red;}
+    80% { background-color: red;}
+    100% { background-color: yellow;}
+}
+
+
+#div1{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    animation-name: changecolor;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+#div2{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    animation-name: changecolor;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
