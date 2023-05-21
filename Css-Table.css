@@ -1,0 +1,47 @@
+
+
+table{
+
+    height: 100px;
+    width: auto;
+    border: 2px solid black;
+    color: black;
+    
+    text-align:justify;
+    direction: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    caption-side: bottom;
+    table-layout: auto;
+    width: 100%;
+}
+
+caption{
+    border: 2px solid black;
+    border-collapse: separate;
+    text-align: center;
+    text-justify: auto;
+    border-spacing: 15px;
+}
+
+tr{
+   border: 2px solid black;
+   text-align: center;
+   text-justify: auto;
+   border-spacing: 15px;
+}
+
+th{
+    border: 2px solid black;
+    text-align: center;
+    text-justify: auto;
+    border-spacing: 15px;
+}
+td{
+    border: 2px solid black;
+    text-align: center;
+    text-justify: auto;
+    border-spacing: 15px;
+}
+
+
