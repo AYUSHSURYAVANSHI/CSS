@@ -1,0 +1,23 @@
+p{
+    color: red;
+}
+
+#p4{
+    color: blue;
+}
+
+.green-text{
+    color: green;
+}
+
+#h{
+    font-size: 50px;
+}
+
+.underline-h{
+    text-decoration: underline;
+}
+
+#bg{
+    background-attachment: fixed red;
+}
