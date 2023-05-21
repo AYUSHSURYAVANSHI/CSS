@@ -1,0 +1,21 @@
+
+
+#text{
+
+    width: 500px;
+    border: 2px solid black;
+    color: red;
+    
+    text-align:justify;
+    direction: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+   
+    
+    
+
+}
+#shadow{ 
+     font-size: 50px;
+     text-shadow: 1px 10px 5px red;
+}
