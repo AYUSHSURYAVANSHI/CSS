@@ -1,0 +1,18 @@
+#perent{
+    border: 2px solid red important ;
+    height: 500vh;
+    cursor: pointer;
+    background-color: aqua;
+    padding: 20px;
+    box-shadow: 10px 10px 15px 3px grey inset , -10px -10px 15px 3px grey inset ;
+
+
+}
+
+#child{
+    border: 2px solid blue;
+    width: 50%;
+
+}
+
+
