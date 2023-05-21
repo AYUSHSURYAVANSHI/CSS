@@ -1,0 +1,34 @@
+#perent{
+    border: 2px solid red;
+    padding: 20px;
+    width: 50%;
+    position: absolute;
+
+}
+
+#one{ 
+    width: 100%;
+    height: 100%;
+    background-color: green;
+    position: fixed;
+
+}
+
+#two{
+    width: 100%;
+    height: 100%;
+    background-color: violet;
+    position: relative;
+
+}
+
+#three{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    position: absolute;
+
+}
+
+
+
