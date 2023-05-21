@@ -1,0 +1,15 @@
+#perent{
+    border: 2px solid red important ;
+    height: 500vh;
+    cursor: progress;
+
+
+}
+
+#child{
+    border: 2px solid blue;
+    width: 50%;
+
+}
+
+
