@@ -1,0 +1,18 @@
+img{
+    width: 100px;
+    height: auto;
+}
+
+#img1{
+    float: right;
+    width: 100px;
+    height: auto;
+
+}
+
+#img2{
+    float: left;
+    width: 100px;
+    height: auto;
+
+}
